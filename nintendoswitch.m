@@ -1,7 +1,7 @@
-# language: Matlab
-# Write a function nintendoswitch.m that takes as input a string brother.
-# If the brother is "Mario", the function prints "red". If the brother is "Luigi", she prints "green".
-# Otherwise, “unknown brother” will be printed. Use a switch and test your function.
+% language: Matlab
+% Write a function nintendoswitch.m that takes as input a string brother.
+% If the brother is "Mario", the function prints "red". If the brother is "Luigi", she prints "green".
+% Otherwise, “unknown brother” will be printed. Use a switch and test your function.
 
 function nintendoswitch(brother)
 

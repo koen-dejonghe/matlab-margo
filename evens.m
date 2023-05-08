@@ -1,7 +1,7 @@
-# matlab 
-# Create an evens.m script that loops over the natural numbers from 1 to 10 and for
-# each number checks whether it is divisible by two. If the number is divisible by two, then
-# 1 is printed and if the number is not divisible by two 0 is printed. Use a for loop.
+% matlab 
+% Create an evens.m script that loops over the natural numbers from 1 to 10 and for
+% each number checks whether it is divisible by two. If the number is divisible by two, then
+% 1 is printed and if the number is not divisible by two 0 is printed. Use a for loop.
 
 function evens()
 

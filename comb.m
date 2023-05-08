@@ -1,11 +1,11 @@
-# Combine a for loop with if, elseif, else to solve the following problem. Create a script
-# comb.m in Matlab which does the following.
-# The script cycles through the natural numbers from 1 to 30.
-# If the current number is divisible by three but not five, use the function disp
-# to display “MAT”.
-# If the current number is divisible by five but not three, display "LAB".
-# If the current number is divisible by fifteen, display “MATLAB”.
-# In all other cases, display “NOTHING SPECIAL”.
+% Combine a for loop with if, elseif, else to solve the following problem. Create a script
+% comb.m in Matlab which does the following.
+% The script cycles through the natural numbers from 1 to 30.
+% If the current number is divisible by three but not five, use the function disp
+% to display “MAT”.
+% If the current number is divisible by five but not three, display "LAB".
+% If the current number is divisible by fifteen, display “MATLAB”.
+% In all other cases, display “NOTHING SPECIAL”.
 
 function comb()
   % loop through 1 to 30

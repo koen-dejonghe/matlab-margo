@@ -1,9 +1,9 @@
-# matlab
-# Create a script ratiofib.m where you do the ratios sequentially
-# v(k + 1) / v(k)
-# computes with v = fibonacci(1,1,20) for k in {1, 2, . . . , 19}. 
-# To what value does this ratio converge? 
-# Use a for loop.
+% matlab
+% Create a script ratiofib.m where you do the ratios sequentially
+% v(k + 1) / v(k)
+% computes with v = fibonacci(1,1,20) for k in {1, 2, . . . , 19}. 
+% To what value does this ratio converge? 
+% Use a for loop.
 
 function verhoudingfib()
 
